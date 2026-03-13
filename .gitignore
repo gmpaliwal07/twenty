@@ -51,3 +51,6 @@ mcp.json
 /.junie/
 TRANSLATION_QA_REPORT.md
 .playwright-mcp/
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
